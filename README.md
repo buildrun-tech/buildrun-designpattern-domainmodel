@@ -10,7 +10,7 @@
 
 </p>
 
-Para um maior entendimento do Design Pattern [clique aqui](https://refactoring.guru/pt-br/design-patterns/prototype).
+Para um maior entendimento do Design Pattern [clique aqui](https://java-design-patterns.com/patterns/domain-model/#).
 
 ## :rocket: Tecnologias utilizaas
 
